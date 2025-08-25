@@ -2,6 +2,6 @@
 
 ## variable
 
-un area de la memoria quq se identifica con un nombre y tiene un tipo de datos, ejemplos 
+un area de la memoria que se identifica con un nombre y tiene un tipo de datos, ejemplos 
 
 y= a + b
